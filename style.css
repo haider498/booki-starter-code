@@ -279,7 +279,7 @@ h3 {
 
 }
 
-.Activités {
+.activites {
     width: 23%;
     background-color: white;
     box-shadow: 0px 3px 15px 0px #00000014;
@@ -294,7 +294,7 @@ h3 {
     border-radius: 20px 20px 0% 0%;
 }
 
-.titre-activité {
+.titre-activite {
     font-size: 16px;
     margin: 15px;
 }
@@ -642,7 +642,7 @@ a {
         width: 100%;
     }
 
-    .Activités-Marseille {
+    .activites-marseille {
         margin-top: 20px;
         padding: 20px;
 
@@ -654,7 +654,7 @@ a {
     }
 
 
-    .Activités {
+    .activites {
         width: 100%;
     }
 
