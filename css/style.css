@@ -22,7 +22,6 @@ nav {
     gap: 68px;
     width: 244px;
     height: 35px;
-
 }
 
 nav a {
@@ -56,7 +55,6 @@ nav a:hover::before {
 }
 
 .introduction {
-
     padding-top: 40px;
 }
 
@@ -91,7 +89,6 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .localisation-icon i {
@@ -127,7 +124,6 @@ h1 {
     display: none;
 
 }
-
 
 /* Filtres */
 .filtre {
@@ -198,9 +194,6 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-
-
-
 }
 
 h2 {
@@ -239,7 +232,6 @@ h3 {
     margin-top: 2px;
     font-size: 16px;
     margin-bottom: 10px;
-
 }
 
 
@@ -383,7 +375,6 @@ a {
     background-color: var(--main-bg-color);
     box-sizing: border-box;
     padding: 15px;
-
 }
 
 /****** Populaires ***********/
@@ -447,13 +438,11 @@ a {
     nav a:focus {
         color: #0065FC;
         outline: none;
-
     }
 
 
     nav a:focus::before {
         width: 100%;
-
     }
 
     .hebergements-and-populaires {
@@ -492,17 +481,12 @@ a {
     }
 
     .filtre {
-
         flex-wrap: wrap;
-
     }
-
-
 }
 
 /* Small devices (phones, less than 768px) */
 @media (max-width: 767.98px) {
-
 
     body {
         margin: 0;
@@ -536,13 +520,11 @@ a {
         top: 130%;
     }
 
-
     .introduction {
         flex-direction: column;
         display: flex;
         padding: 10px;
         padding-top: 20px;
-
     }
 
     .conteneur-recherche {
@@ -556,7 +538,6 @@ a {
         margin-top: 0;
         width: 335px;
         margin-left: 10px;
-
     }
 
     .localisation-icon {
@@ -590,9 +571,7 @@ a {
 
     .titre-icon {
         flex-wrap: wrap;
-
     }
-
 
     .information {
         padding: 10px;
@@ -603,12 +582,10 @@ a {
         flex-direction: column-reverse;
     }
 
-
     .populaires {
         width: 100%;
         padding: 10px;
         border-radius: 0;
-
     }
 
     .populaires-cards {
@@ -632,7 +609,6 @@ a {
         padding: 10px;
     }
 
-
     .hebergements {
         background-color: white;
         padding: 10px;
@@ -645,7 +621,6 @@ a {
     .activites-marseille {
         margin-top: 20px;
         padding: 20px;
-
     }
 
     .carte {
@@ -664,6 +639,5 @@ a {
 
     footer {
         flex-direction: column;
-
     }
 }
